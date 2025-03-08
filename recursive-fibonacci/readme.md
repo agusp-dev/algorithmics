@@ -18,3 +18,10 @@ Por ejemplo:
 ## Fibonacci Tree
 
 ![alt text](image.png)
+
+## Solución
+La solución incluye 2 archivos:
+
+- fib-01.ts -> Contiene una solución usando recursividad, de forma ineficiente debido a la cantidad de calculos ejecutados.
+
+- fib-02.ts -> Contiene una solución mejorada usando recursividad junto con memoization, que permite almacenar los calculos ya realizados, para re utilizarlos.
