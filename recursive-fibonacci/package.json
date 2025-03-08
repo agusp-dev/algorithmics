@@ -1,0 +1,13 @@
+{
+  "name": "recursive-fibonacci",
+  "version": "1.0.0",
+  "description": "La sucesión de Fibonacci es una serie de números en la que cada término se obtiene sumando los dos anteriores.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
