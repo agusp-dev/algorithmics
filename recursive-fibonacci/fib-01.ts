@@ -2,6 +2,9 @@
  * Fibonacci recursivo
  * 
  * 1, 1, 2, 3, 5, 8, 13, 21, 34... 
+ * 
+ * El principal problema de esta solución, es la cantidad de calculos realizados 
+ * y que no son memoizados.
  */
 
 const fib = (n: number): number => {
